@@ -1,4 +1,6 @@
 ### Hi There, I'm Felipe Amaral 👋
+🌱 I’m currently learning
+
 
 <!--
 **Felipe10amaral/Felipe10amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
