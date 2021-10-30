@@ -6,7 +6,7 @@
 ![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe10amaral&show_icons=true&theme=radical)
 
 [![My profile rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/felipe-amaral-1566900354)
-[![My profile Tweeter](https://img.shields.io	/twitter/url?url=https%3A%2F%2Fshields.io)](https://twitter.com/Felipe39356346)
+[![My profile Tweeter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io)](https://twitter.com/Felipe39356346)
 
 
 <!--
