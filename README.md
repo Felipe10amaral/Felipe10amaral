@@ -1,6 +1,6 @@
 ### Hi There, I'm Felipe Amaral 👋
-🌱 I’m currently learning about FullStack
- :books:  Technologies I study Node, React, React native and TypeScript
+- 🌱 I’m currently learning about FullStack
+- :books:  Technologies I study Node, React, React native and TypeScript
 
 
 <!--
