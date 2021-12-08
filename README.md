@@ -1,6 +1,5 @@
 ### Hi There, I'm Felipe Amaral 👋
-- 🌱 I’m currently learning about FullStack
-- :books:  Technologies I study Node, React, React native and TypeScript
+- 🌱 I’m currently learning about FullStack  
 - :school: Graduate Student of Information Systems - IFF
 
 ![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe10amaral&show_icons=true&theme=radical)
