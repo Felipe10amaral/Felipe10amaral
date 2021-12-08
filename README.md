@@ -9,7 +9,15 @@
 ### Contact
 [![My profile rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/felipe-amaral-1566900354)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=felipeamaraldev15@gmail.com)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-15b58b164/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-15b58b164/)  
+
+
+# My Skills
+  - [HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+
+
+
+
 
 
 <!--
