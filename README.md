@@ -8,7 +8,7 @@
 ### Contact
 [![My profile rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/felipe-amaral-1566900354)    
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaral-15b58b164/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/felipe10amaral/)  
 
 
 ### My Skills
