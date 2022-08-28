@@ -3,6 +3,7 @@
 - :school: Graduate Student of Information Systems - IFF
 
 ![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe10amaral&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe10amaral&show_icons=true&theme=radical)](https://github.com/felipe10amaral/github-readme-stats)
 
 ### Contact
