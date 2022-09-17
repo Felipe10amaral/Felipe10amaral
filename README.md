@@ -1,6 +1,6 @@
 ### Hi There, I'm Felipe Amaral 👋
 - 🌱 I’m currently learning about FullStack  
-- :school: Graduate Student of Information Systems - IFF
+- :school: Graduate Student of Information Systems - Instituto Federal Fluminense
 
 ![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe10amaral&show_icons=true&theme=radical)
 <br>
