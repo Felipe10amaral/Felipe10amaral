@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe10amaral&show_icons=true&theme=radical)](https://github.com/felipe10amaral/github-readme-stats)
 
 ### Contact
-[![My profile rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/felipe-amaral-1566900354)    
+    
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe10amaral/)  
 
